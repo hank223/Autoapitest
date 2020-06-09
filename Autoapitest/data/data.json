@@ -1,0 +1,53 @@
+[
+  {
+    "enroll_data": {
+      "username": "13556712375",
+      "verify_code": "8888",
+      "password": "123456789",
+      "password2": "123456789"
+    },
+    "status": 1,
+    "msg1": "注册成功",
+    "login_data": {
+      "username": "13556712375",
+      "password": "123456789",
+      "verify_code": "8888"
+    },
+    "msg2": "登陆成功",
+    "status_code": 200
+  },
+  {
+    "enroll_data": {
+      "username": "13556712376",
+      "verify_code": "8888",
+      "password": "123456789",
+      "password2": "123456789"
+    },
+    "status": 1,
+    "msg1": "注册成功",
+    "login_data": {
+      "username": "13556712376",
+      "password": "123456789",
+      "verify_code": "8888"
+    },
+    "msg2": "登陆成功",
+    "status_code": 200
+  },
+  {
+    "enroll_data": {
+      "username": "13556712377",
+      "verify_code": "8888",
+      "password": "123456789",
+      "password2": "123456789"
+    },
+    "status": 1,
+    "msg1": "注册成功",
+    "login_data": {
+      "username": "13556712377",
+      "password": "123456789",
+      "verify_code": "8888"
+    },
+    "msg2": "登陆成功",
+    "status_code": 200
+  }
+]
