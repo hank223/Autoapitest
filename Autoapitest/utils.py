@@ -12,7 +12,7 @@ suite = unittest.TestSuite()
 # 将测试用例添加到测试组件
 suite.addTest(unittest.makeSuite(TpshopLogin))
 # 定义测试报告的目录和名称
-report_path = BASE_DIR + "/report/tpshop{}.html".format(time.strftime("%Y%m%d %H%M%S"))
+report_path = BASE_DIR + "/report/tpshop_login.html"
 with open(report_path, mode='wb') as f:
     runner = HTMLTestRunner_PY3.HTMLTestRunner(f, verbosity=1, title='tpshop登陆接口功能测试', description='需要联网')
     runner.run(suite)
